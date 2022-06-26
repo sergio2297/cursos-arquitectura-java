@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
  * @author Sergio
  *
  */
-public class CalculadoraTest {
+class CalculadoraTest {
 
 	@DisplayName("Sumar 2 + 2 debe dar 4")
 	@Test
